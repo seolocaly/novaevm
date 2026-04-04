@@ -31,6 +31,8 @@ const (
 	TestingChainID = "test_9000"
 	// BaseDenom defines the Evmos mainnet denomination
 	BaseDenom = "aevmos"
+	// NovaChainID defines the Nova EIP155 chain ID
+	NovaChainID = "nova_9000"
 )
 
 // EthHexToSDKAddr takes a given Hex string and derives a Cosmos SDK account address
