@@ -1,6 +1,6 @@
 module github.com/evmos/evmos/v20
 
-go 1.22.2
+go 1.23.2
 
 require (
 	cosmossdk.io/api v0.7.5
@@ -15,7 +15,7 @@ require (
 	cosmossdk.io/x/feegrant v0.1.1
 	cosmossdk.io/x/tx v0.13.4
 	cosmossdk.io/x/upgrade v0.1.4
-	github.com/btcsuite/btcd v0.24.2
+	github.com/btcsuite/btcd v0.25.0
 	github.com/btcsuite/btcd/btcutil v1.1.6
 	github.com/cometbft/cometbft v0.38.12
 	github.com/cosmos/cosmos-db v1.0.2
@@ -99,7 +99,7 @@ require (
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.1.1-0.20220910012023-760eaf8b6816 // indirect
 	github.com/bits-and-blooms/bitset v1.8.0 // indirect
-	github.com/btcsuite/btcd/btcec/v2 v2.3.4 // indirect
+	github.com/btcsuite/btcd/btcec/v2 v2.3.5 // indirect
 	github.com/btcsuite/btcd/chaincfg/chainhash v1.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
@@ -269,7 +269,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gotest.tools/v3 v3.5.1 // indirect
 	nhooyr.io/websocket v1.8.10 // indirect
-	pgregory.net/rapid v1.1.0 // indirect
+	pgregory.net/rapid v1.2.0 // indirect
 )
 
 replace (
