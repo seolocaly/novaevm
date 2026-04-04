@@ -28,7 +28,7 @@ require (
 	github.com/cosmos/ibc-go/v8 v8.5.1
 	github.com/cosmos/rosetta v0.50.9
 	github.com/creachadair/tomledit v0.0.26
-	github.com/crypto-org-chain/cronos/memiavl v0.0.5-0.20240722062311-8384cad72737
+	github.com/crypto-org-chain/cronos/memiavl v0.1.0
 	github.com/crypto-org-chain/cronos/store v0.0.5-0.20240722062311-8384cad72737
 	github.com/crypto-org-chain/cronos/versiondb v0.0.0-20240722062311-8384cad72737
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
@@ -116,7 +116,7 @@ require (
 	github.com/containerd/continuity v0.4.3 // indirect
 	github.com/cosmos/btcutil v1.0.5 // indirect
 	github.com/cosmos/gogogateway v1.2.0 // indirect
-	github.com/cosmos/iavl v1.1.2 // indirect
+	github.com/cosmos/iavl v1.2.0 // indirect
 	github.com/cosmos/ics23/go v0.11.0 // indirect
 	github.com/cosmos/ledger-cosmos-go v0.13.3 // indirect
 	github.com/cosmos/rosetta-sdk-go v0.10.0 // indirect
